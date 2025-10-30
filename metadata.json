@@ -1,0 +1,5 @@
+{
+  "name": "Component Sandbox",
+  "description": "A split-screen, sandboxed code editor with live preview for React and React Native components. Write and test your components in a secure environment with syntax highlighting.",
+  "requestFramePermissions": []
+}
